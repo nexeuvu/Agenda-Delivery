@@ -9,7 +9,7 @@ Este es un proyecto de gestión de pedidos de delivery. Utiliza Laragon como ent
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/sunombredeusuario/sistema-delivery.git
+git clone [https://github.com/sunombredeusuario/sistema-delivery.git](https://github.com/nexeuvu/Agenda-Delivery.git)
 ```
 
 2. Abrir Laragon:
