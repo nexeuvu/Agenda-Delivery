@@ -60,5 +60,8 @@ USE bd_delivery;
 - MySQL 8.0+
 - Usar declaraciones preparadas para interacciones con base de datos
 
-## Licencia
-@Copyright NexeuVu
+## Integrantes
+- Yoel Antonio RAMOS GUTIERREZ
+- Cristian ACUÑA HUACHACA
+- Cristian QUISPE PARISACA
+
